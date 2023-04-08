@@ -8,7 +8,6 @@ public class Day2Demo {
 	}
 	
 	public void team4Demo() {
-		
-		System.out.println("Team 4 work demo");
+		System.out.println("team 4 demo");
 	}
 }
