@@ -17,4 +17,6 @@ public class Day2Demo {
 		This is coming from remote
 	
 	*/
+	
+	String firstName = "John";
 }
