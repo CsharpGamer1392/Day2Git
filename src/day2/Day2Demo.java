@@ -19,4 +19,6 @@ public class Day2Demo {
 	*/
 	
 	String firstName = "John";
+	
+	int age = 10;
 }
